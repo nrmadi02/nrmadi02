@@ -37,6 +37,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nrmadi02&show_icons=true&locale=en&layout=compact" alt="nrmadi02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nrmadi02&show_icons=true&theme=synthwave&title_color=0000ff&locale=en" alt="nrmadi02" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nrmadi02&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="nrmadi02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrmadi02&" alt="nrmadi02" /></p>
